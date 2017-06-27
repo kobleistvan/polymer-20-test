@@ -1,0 +1,7 @@
+{
+  "name": "polymer-20-test",
+  "short_name": "polymer-20-test",
+  "description": "Test application to figure out how polymer works it&#39;s magic.",
+  "start_url": "/",
+  "display": "standalone"
+}
